@@ -53,9 +53,3 @@ value, exists := m.Pop("a")
 ```go
 sortedPairs := m.Sort()
 ```
-
-## Testing
-
-Comprehensive unit tests are provided to ensure the correct behavior of the `ExtendedMap`. Refer to the test file for
-detailed test cases.
-
